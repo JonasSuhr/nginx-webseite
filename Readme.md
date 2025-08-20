@@ -36,3 +36,5 @@ Ports
 - docker run -p 8080:80: veröffentlicht Port 80 des Containers nach außen auf Port 8080 des Hosts.
 
        → Ich erreiche die Seite über http://localhost:8080, obwohl Nginx im Container auf Port 80 läuft.
+
+
